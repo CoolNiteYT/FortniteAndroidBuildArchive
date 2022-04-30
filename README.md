@@ -1,2 +1,2 @@
 # FortniteAndroidBuildArchive
-Archive for old fortnite builds. Thank to https://github.com/VastBlast/FortniteManifestArchive for many of these.
+Archive for old fortnite builds. Thank you to https://github.com/VastBlast/FortniteManifestArchive for many of these.
